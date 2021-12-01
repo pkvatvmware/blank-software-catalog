@@ -1,2 +1,1 @@
-# tap-demo-project
-
+Sample org structure for application catalog
